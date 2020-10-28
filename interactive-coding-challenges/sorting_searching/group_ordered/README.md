@@ -28,3 +28,15 @@ Complexity:
 
 
 # Code: Modified Selection Sort
+
+
+# Algorithm: Ordered Dict.
+
+	* Use an ordered dict to track insertion order of each key
+	* Flatten list of values.
+
+Complexity:
+	* Time: O(n)
+	* Space: O(n)
+
+# Code: Ordered Dict
